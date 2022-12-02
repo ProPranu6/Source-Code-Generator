@@ -337,10 +337,10 @@ ngram_model.preprocessor.tokens_dict
 
 #The more the database the more flexible word prompts can be, the better the algorithm understands meaning even better could be the word prompts
 
-"""## **Basic Functionalities of WordVec**
+"""## **Basic Functionalities of WordVec**"""
 
-### **vecW2V Model**
-"""
+"""### **vecW2V Model**"""
+
 
 import tensorflow as tf
 from tensorflow import keras
